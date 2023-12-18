@@ -1,0 +1,40 @@
+{
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tt2f1_tileset",
+  "autoTileSets": [],
+  "macroPageTiles": {
+    "SerialiseHeight": 0,
+    "SerialiseWidth": 0,
+    "TileSerialiseData": [],
+  },
+  "out_columns": 1,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "parent": {
+    "name": "Future",
+    "path": "folders/Tile Sets/Tidal Tubes/Tiles/Act2/Future.yy",
+  },
+  "spriteId": {
+    "name": "tt2f1",
+    "path": "sprites/tt2f1/tt2f1.yy",
+  },
+  "spriteNoExport": false,
+  "textureGroupId": {
+    "name": "TTZ2F",
+    "path": "texturegroups/TTZ2F",
+  },
+  "tile_count": 0,
+  "tileAnimation": {
+    "FrameData": [],
+    "SerialiseFrameCount": 1,
+  },
+  "tileAnimationFrames": [],
+  "tileAnimationSpeed": 15.0,
+  "tileHeight": 64,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "tileWidth": 64,
+  "tilexoff": 0,
+  "tileyoff": 0,
+}

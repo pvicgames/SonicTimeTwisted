@@ -1,0 +1,40 @@
+{
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "PP1_1_tileset",
+  "autoTileSets": [],
+  "macroPageTiles": {
+    "SerialiseHeight": 0,
+    "SerialiseWidth": 0,
+    "TileSerialiseData": [],
+  },
+  "out_columns": 1,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "parent": {
+    "name": "Tiles",
+    "path": "folders/Tile Sets/Planetary Panic/Tiles.yy",
+  },
+  "spriteId": {
+    "name": "PP1_1",
+    "path": "sprites/PP1_1/PP1_1.yy",
+  },
+  "spriteNoExport": false,
+  "textureGroupId": {
+    "name": "PPZ",
+    "path": "texturegroups/PPZ",
+  },
+  "tile_count": 0,
+  "tileAnimation": {
+    "FrameData": [],
+    "SerialiseFrameCount": 1,
+  },
+  "tileAnimationFrames": [],
+  "tileAnimationSpeed": 15.0,
+  "tileHeight": 64,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "tileWidth": 64,
+  "tilexoff": 0,
+  "tileyoff": 0,
+}

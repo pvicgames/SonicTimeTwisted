@@ -1,0 +1,40 @@
+{
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "vvf2_1_tileset",
+  "autoTileSets": [],
+  "macroPageTiles": {
+    "SerialiseHeight": 0,
+    "SerialiseWidth": 0,
+    "TileSerialiseData": [],
+  },
+  "out_columns": 1,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "parent": {
+    "name": "Future",
+    "path": "folders/Tile Sets/Viridian Valley/Tiles/Act 2/Future.yy",
+  },
+  "spriteId": {
+    "name": "vvf2_1",
+    "path": "sprites/vvf2_1/vvf2_1.yy",
+  },
+  "spriteNoExport": false,
+  "textureGroupId": {
+    "name": "VVZ2F",
+    "path": "texturegroups/VVZ2F",
+  },
+  "tile_count": 0,
+  "tileAnimation": {
+    "FrameData": [],
+    "SerialiseFrameCount": 1,
+  },
+  "tileAnimationFrames": [],
+  "tileAnimationSpeed": 15.0,
+  "tileHeight": 64,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "tileWidth": 64,
+  "tilexoff": 0,
+  "tileyoff": 0,
+}
